@@ -1,4 +1,4 @@
-# Stock_and_Inventory_Management_System
+# Stock-Inventory-Management-System
 # Inventory & Stock Management System
 
 A **command-line based Inventory & Stock Management System** developed using **Core Java**. The system allows users to manage products, monitor stock levels, process sales, generate inventory reports, and persist data using local files.
