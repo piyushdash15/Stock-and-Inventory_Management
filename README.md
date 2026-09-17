@@ -725,7 +725,7 @@ Framework         : None
 
 ---
 
-# 📜 License
+# 📜 Important Instruction
 
 This project is intended for educational and academic purposes.
 
