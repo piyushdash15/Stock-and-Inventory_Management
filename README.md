@@ -724,7 +724,13 @@ Framework         : None
 ```
 
 ---
+# 👤 Student Details
 
+Name: Piyush Kumar Dash
+
+Registration Number: 25BAI10103
+
+---
 # 📜 Important Instruction
 
 This project is intended for educational and academic purposes.
